@@ -1,5 +1,7 @@
 # BackburnerMailer
 
+Uses CodeSHIP CI
+
 A gem plugin which allows messages prepared by ActionMailer or Padrino Mailer to be delivered
 asynchronously. Assumes you're using Backburner (http://github.com/nesquena/backburner)
 for your background jobs.
